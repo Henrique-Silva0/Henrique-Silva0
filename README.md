@@ -1,4 +1,4 @@
-# Olá! Eu sou o José Henrique 👋
+# Olá! Eu sou o Henrique 👋
 ### Analista de Dados & Business Intelligence Júnior
 
 <p align="center">
